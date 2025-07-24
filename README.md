@@ -6,7 +6,7 @@ This project implements an automated strategy to solve Hangman puzzles using an 
 
 ## 📁 Files Included
 
-- `hangman_api_user (2).ipynb` – Complete implementation of the Hangman bot.
+- `hangman_api_user.ipynb` – Complete implementation of the Hangman bot.
 - `README.md` – Overview of the project structure, components, and strategy.
 
 ---
